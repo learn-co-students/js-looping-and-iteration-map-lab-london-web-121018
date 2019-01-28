@@ -34,5 +34,9 @@
     "mocha-jsdom": "~1.1.0",
     "mocha-multi": "1.0.1",
     "sinon": "^6.3.4"
+  },
+  "dependencies": {
+    "learn-browser": "^0.1.17",
+    "require": "^2.4.20"
   }
 }
